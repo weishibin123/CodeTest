@@ -14,7 +14,7 @@ public class AppTest
                 System.out.println("b");
                 System.out.println("FizzBuzz");
             } else if (i % 3 == 0 && i % 5 != 0) {
-                System.out.println("Fizz");
+                System.out.println("fuck");
             } else if (i % 3 != 0 && i % 5 == 0) {
                 System.out.println("Buzz");
             } else {
