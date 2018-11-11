@@ -11,7 +11,8 @@ public class AppTest
     public void printTestOne() {
         for (int i = 1; i < 100; i++) {
             if (i % 3 == 0 && i % 5 == 0) {
-                System.out.println("b");
+                System.out.println("c");
+                System.out.println("d");
                 System.out.println("FizzBuzz");
             } else if (i % 3 == 0 && i % 5 != 0) {
                 System.out.println("fuck");
